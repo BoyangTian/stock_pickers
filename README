@@ -1,0 +1,6 @@
+# Set Up
+Run code under juypter
+```
+make install
+jupyter notebook
+```
