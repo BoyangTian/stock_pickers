@@ -1,2 +1,4 @@
 jupyter==1.0.0
-yfinance==0.2.18
+# yfinance==0.2.18
+yfinance==0.2.30
+yahoo-fin==0.8.9.1
